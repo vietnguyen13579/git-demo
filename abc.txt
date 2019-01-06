@@ -6,4 +6,4 @@ lan3: ccc
 lan 5: eeee
 
 ///sua o day 
- lan 1 : ffffff
+ lan2 : ggg
