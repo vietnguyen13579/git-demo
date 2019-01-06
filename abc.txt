@@ -7,3 +7,5 @@ lan 5: eeee
 
 ///sua o day 
  lan2 : ggg
+ 
+ lan7:sss
