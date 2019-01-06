@@ -1,1 +1,3 @@
 lan 1: aaa
+
+lan2: bbb
