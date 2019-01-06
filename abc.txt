@@ -4,3 +4,6 @@ lan2: bbb
 lan3: ccc
 
 lan 5: eeee
+
+///sua o day 
+ lan 1 : ffffff
